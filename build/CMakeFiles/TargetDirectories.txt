@@ -1,0 +1,5 @@
+/Users/garrychen/CLionProjects/Dave_C/build/CMakeFiles/main.dir
+/Users/garrychen/CLionProjects/Dave_C/build/CMakeFiles/exercise_12454.dir
+/Users/garrychen/CLionProjects/Dave_C/build/CMakeFiles/rebuild_cache.dir
+/Users/garrychen/CLionProjects/Dave_C/build/CMakeFiles/edit_cache.dir
+/Users/garrychen/CLionProjects/Dave_C/build/CMakeFiles/exercise_12453.dir

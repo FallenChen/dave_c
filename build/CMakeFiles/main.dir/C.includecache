@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/garrychen/CLionProjects/Dave_C/src/exercise_12453.c
+stdio.h
+-
+
+/Users/garrychen/CLionProjects/Dave_C/src/exercise_12454.c
+

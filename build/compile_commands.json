@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/garrychen/CLionProjects/Dave_C/build",
+  "command": "/usr/bin/clang   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=gnu11 -o CMakeFiles/main.dir/src/main.c.o -c /Users/garrychen/CLionProjects/Dave_C/src/main.c",
+  "file": "/Users/garrychen/CLionProjects/Dave_C/src/main.c"
+},
+{
+  "directory": "/Users/garrychen/CLionProjects/Dave_C/build",
+  "command": "/usr/bin/clang   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=gnu11 -o CMakeFiles/exercise_12454.dir/src/exercise_12454.c.o -c /Users/garrychen/CLionProjects/Dave_C/src/exercise_12454.c",
+  "file": "/Users/garrychen/CLionProjects/Dave_C/src/exercise_12454.c"
+},
+{
+  "directory": "/Users/garrychen/CLionProjects/Dave_C/build",
+  "command": "/usr/bin/clang   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=gnu11 -o CMakeFiles/exercise_12453.dir/src/exercise_12453.c.o -c /Users/garrychen/CLionProjects/Dave_C/src/exercise_12453.c",
+  "file": "/Users/garrychen/CLionProjects/Dave_C/src/exercise_12453.c"
+}
+]
